@@ -1,2 +1,10 @@
-# Coursera_Github_Calc
-COSC_ITE315012526SPCR - Getting Started with Git and GitHub - Final Project (AI Graded)
+# This is the README.md file for the **github-final-project**
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
